@@ -2,6 +2,9 @@
 
 import random
 
+print("Welcome To Hippie's Number Guessing Game")
+print("You have 5 Chances to Guess Right!")
+
 correct_number = random.randrange(0,11)
 
 i = 4
