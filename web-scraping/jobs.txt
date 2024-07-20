@@ -1,0 +1,100 @@
+Senior Python Developer: https://www.realpython.com
+Energy engineer: https://realpython.github.io/fake-jobs/jobs/senior-python-developer-0.html
+Legal executive: https://www.realpython.com
+Fitness centre manager: https://realpython.github.io/fake-jobs/jobs/energy-engineer-1.html
+Product manager: https://www.realpython.com
+Medical technical officer: https://realpython.github.io/fake-jobs/jobs/legal-executive-2.html
+Physiological scientist: https://www.realpython.com
+Textile designer: https://realpython.github.io/fake-jobs/jobs/fitness-centre-manager-3.html
+Television floor manager: https://www.realpython.com
+Waste management officer: https://realpython.github.io/fake-jobs/jobs/product-manager-4.html
+Software Engineer (Python): https://www.realpython.com
+Interpreter: https://realpython.github.io/fake-jobs/jobs/medical-technical-officer-5.html
+Architect: https://www.realpython.com
+Meteorologist: https://realpython.github.io/fake-jobs/jobs/physiological-scientist-6.html
+Audiological scientist: https://www.realpython.com
+English as a second language teacher: https://realpython.github.io/fake-jobs/jobs/textile-designer-7.html
+Surgeon: https://www.realpython.com
+Equities trader: https://realpython.github.io/fake-jobs/jobs/television-floor-manager-8.html
+Newspaper journalist: https://www.realpython.com
+Materials engineer: https://realpython.github.io/fake-jobs/jobs/waste-management-officer-9.html
+Python Programmer (Entry-Level): https://www.realpython.com
+Product/process development scientist: https://realpython.github.io/fake-jobs/jobs/software-engineer-python-10.html
+Scientist, research (maths): https://www.realpython.com
+Ecologist: https://realpython.github.io/fake-jobs/jobs/interpreter-11.html
+Materials engineer: https://www.realpython.com
+Historic buildings inspector/conservation officer: https://realpython.github.io/fake-jobs/jobs/architect-12.html
+Data scientist: https://www.realpython.com
+Psychiatrist: https://realpython.github.io/fake-jobs/jobs/meteorologist-13.html
+Structural engineer: https://www.realpython.com
+Immigration officer: https://realpython.github.io/fake-jobs/jobs/audiological-scientist-14.html
+Python Programmer (Entry-Level): https://www.realpython.com
+Neurosurgeon: https://realpython.github.io/fake-jobs/jobs/english-as-a-second-language-teacher-15.html
+Broadcast engineer: https://www.realpython.com
+Make: https://realpython.github.io/fake-jobs/jobs/surgeon-16.html
+Nurse, adult: https://www.realpython.com
+Air broker: https://realpython.github.io/fake-jobs/jobs/equities-trader-17.html
+Editor, film/video: https://www.realpython.com
+Production assistant, radio: https://realpython.github.io/fake-jobs/jobs/newspaper-journalist-18.html
+Engineer, communications: https://www.realpython.com
+Sales executive: https://realpython.github.io/fake-jobs/jobs/materials-engineer-19.html
+Software Developer (Python): https://www.realpython.com
+Futures trader: https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-20.html
+Tour manager: https://www.realpython.com
+Cytogeneticist: https://realpython.github.io/fake-jobs/jobs/product-process-development-scientist-21.html
+Designer, multimedia: https://www.realpython.com
+Trade union research officer: https://realpython.github.io/fake-jobs/jobs/scientist-research-maths-22.html
+Chemist, analytical: https://www.realpython.com
+Programmer, multimedia: https://realpython.github.io/fake-jobs/jobs/ecologist-23.html
+Engineer, broadcasting (operations): https://www.realpython.com
+Teacher, primary school: https://realpython.github.io/fake-jobs/jobs/materials-engineer-24.html
+Python Developer: https://www.realpython.com
+Manufacturing systems engineer: https://realpython.github.io/fake-jobs/jobs/historic-buildings-inspector-conservation-officer-25.html
+Producer, television/film/video: https://www.realpython.com
+Scientist, forensic: https://realpython.github.io/fake-jobs/jobs/data-scientist-26.html
+Bonds trader: https://www.realpython.com
+Editorial assistant: https://realpython.github.io/fake-jobs/jobs/psychiatrist-27.html
+Photographer: https://www.realpython.com
+Retail banker: https://realpython.github.io/fake-jobs/jobs/structural-engineer-28.html
+Jewellery designer: https://www.realpython.com
+Ophthalmologist: https://realpython.github.io/fake-jobs/jobs/immigration-officer-29.html
+Back-End Web Developer (Python, Django): https://www.realpython.com
+Licensed conveyancer: https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-30.html
+Futures trader: https://www.realpython.com
+Counselling psychologist: https://realpython.github.io/fake-jobs/jobs/neurosurgeon-31.html
+Insurance underwriter: https://www.realpython.com
+Engineer, automotive: https://realpython.github.io/fake-jobs/jobs/broadcast-engineer-32.html
+Producer, radio: https://www.realpython.com
+Dispensing optician: https://realpython.github.io/fake-jobs/jobs/make-33.html
+Designer, fashion/clothing: https://www.realpython.com
+Chartered loss adjuster: https://realpython.github.io/fake-jobs/jobs/nurse-adult-34.html
+Back-End Web Developer (Python, Django): https://www.realpython.com
+Forest/woodland manager: https://realpython.github.io/fake-jobs/jobs/air-broker-35.html
+Clinical cytogeneticist: https://www.realpython.com
+Print production planner: https://realpython.github.io/fake-jobs/jobs/editor-film-video-36.html
+Systems developer: https://www.realpython.com
+Graphic designer: https://realpython.github.io/fake-jobs/jobs/production-assistant-radio-37.html
+Writer: https://www.realpython.com
+Field seismologist: https://realpython.github.io/fake-jobs/jobs/engineer-communications-38.html
+Chief Strategy Officer: https://www.realpython.com
+Air cabin crew: https://realpython.github.io/fake-jobs/jobs/sales-executive-39.html
+Python Programmer (Entry-Level): https://www.realpython.com
+Warden/ranger: https://realpython.github.io/fake-jobs/jobs/software-developer-python-40.html
+Sports therapist: https://www.realpython.com
+Arts development officer: https://realpython.github.io/fake-jobs/jobs/futures-trader-41.html
+Printmaker: https://www.realpython.com
+Health and safety adviser: https://realpython.github.io/fake-jobs/jobs/tour-manager-42.html
+Manufacturing systems engineer: https://www.realpython.com
+Programmer, applications: https://realpython.github.io/fake-jobs/jobs/cytogeneticist-43.html
+Medical physicist: https://www.realpython.com
+Media planner: https://realpython.github.io/fake-jobs/jobs/designer-multimedia-44.html
+Software Developer (Python): https://www.realpython.com
+Surveyor, land/geomatics: https://realpython.github.io/fake-jobs/jobs/trade-union-research-officer-45.html
+Legal executive: https://www.realpython.com
+Librarian, academic: https://realpython.github.io/fake-jobs/jobs/chemist-analytical-46.html
+Barrister: https://www.realpython.com
+Museum/gallery exhibitions officer: https://realpython.github.io/fake-jobs/jobs/programmer-multimedia-47.html
+Radiographer, diagnostic: https://www.realpython.com
+Database administrator: https://realpython.github.io/fake-jobs/jobs/engineer-broadcasting-operations-48.html
+Furniture designer: https://www.realpython.com
+Ship broker: https://realpython.github.io/fake-jobs/jobs/teacher-primary-school-49.html
