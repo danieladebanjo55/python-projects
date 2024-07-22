@@ -1,7 +1,7 @@
 import logging
 import requests
 from telegram import Update
-from telegram.ext import Application, CallbackContext, CommandHandler
+from telegram.ext import Application, CallbackContext, CommandHandler, CallbackQueryHandler
 
 from config import TELEGRAM_API_KEY, NEWS_API_KEY, NEWS_URL
 
@@ -26,17 +26,26 @@ async def get_news(update: Update, context: CallbackContext) -> None:
     data = response.json()
 
     if data['status'] == 'ok' and data['articles']:
-        articles = data['articles'][:5]
+        articles = data['articles'][:15]
         new_message = "Latest Cryto News:\n\n"
         # print(new_message)
+
         for article in articles:
             title = article['title']
             url = article['url']
             new_message += f"{title}\n{url}\n\n"
+
         # else:
         #     new_message = "No news found at the moment."
 
         await update.message.reply_text(new_message)
+
+async def button(update: Update, context: CallbackContext) -> None:
+    query = update.callback_query
+    await query.answer()
+
+    if query.data == 'refresh_news':
+        await get_news(query, context)
 
 
 # Main Function
