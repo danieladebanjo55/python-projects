@@ -28,7 +28,7 @@ async def get_news(update: Update, context: CallbackContext) -> None:
     if data['status'] == 'ok' and data['articles']:
         articles = data['articles'][:5]
         new_message = "Latest Cryto News:\n\n"
-        print(new_message)
+        # print(new_message)
         for article in articles:
             title = article['title']
             url = article['url']
